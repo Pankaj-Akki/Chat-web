@@ -538,7 +538,7 @@ function App() {
                   <span>Username</span>
                   <input
                     name="username"
-                    placeholder="Enter Komal Jangra or Pankaj Berwal"
+                    placeholder="Komal Jangra or Pankaj Berwal"
                     autoComplete="username"
                     required
                   />

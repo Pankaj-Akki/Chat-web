@@ -370,7 +370,7 @@
 }
 
 .login-left {
-  background: #ffffff;
+  background: var(--panel, #111a30);
   border: 1px solid var(--border, #1f2a44);
   border-radius: 16px;
   padding: 22px;
@@ -625,8 +625,4 @@
 }
 section.chat-area {
   background: url(https://jiopack.com/wp-content/uploads/2025/12/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png)!important;
-}
-.auth-screen {
-  background: url(https://jiopack.com/wp-content/uploads/2025/12/occan.webp)!important;
-  background-size: cover!important;
 }
